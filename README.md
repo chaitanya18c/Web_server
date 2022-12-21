@@ -52,7 +52,7 @@ httpd.serve_forever()
 ```
 
 # OUTPUT:
-![OUTPUT](./images/webserver1.png)
+![OUTPUT](./images/cr.png)
 
 # RESULT:
 
