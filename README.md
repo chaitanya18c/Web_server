@@ -58,4 +58,4 @@ httpd.serve_forever()
 
 # RESULT:
 
-This program has been executed Successfully.
+This program has been executed successfully.
